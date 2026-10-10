@@ -24,8 +24,7 @@ The full plan is in [methodology/methodology.md](methodology/methodology.md).
 │   ├── preprocess.py           Mandatory preprocessing: raw CSV to clean collision table
 │   └── category_map.py         Maps Arabic incident categories to English collision groups
 ├── docs/
-│   ├── literature_review_sources_handover.md   Checked source list for whoever writes the literature review
-│   ├── literature_review_reference_draft.md    Reference draft only, not the report's literature review
+│   ├── references_and_data_sources.md   Checked references for the studies, datasets and methods used
 │   ├── datasets.md             Survey of candidate datasets
 │   └── preprocessing_log.md    Row counts from the preprocessing run
 ├── data/

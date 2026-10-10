@@ -1,6 +1,4 @@
-# Literature review sources: handover list
-
-> A checked list of sources handed over to the team member writing the literature review. It is a starting point for that section, not the section itself.
+# References and data sources
 
 ## Verification note
 
@@ -107,10 +105,3 @@ All of these were confirmed through Crossref DOI metadata, the publisher's page,
 | scikit-learn | Pedregosa, F., Varoquaux, G., Gramfort, A., et al. (2011). Scikit-learn: Machine learning in Python. *Journal of Machine Learning Research, 12*, 2825–2830. | Verified, primary (JMLR page; 16 authors) |
 | OSMnx | Boeing, G. (2017). OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks. *Computers, Environment and Urban Systems, 65*, 126–139. https://doi.org/10.1016/j.compenvurbsys.2017.05.004 | Verified, primary (arXiv record and the package's own citation). OSMnx's author now also points to a newer paper: Boeing, G. (2025). Modeling and analyzing urban networks and amenities with OSMnx. *Geographical Analysis, 57*(4), 567–577. https://doi.org/10.1111/gean.70009 |
 | ERA5 | Hersbach, H., et al. (2020). The ERA5 global reanalysis. *Quarterly Journal of the Royal Meteorological Society, 146*(730), 1999–2049. https://doi.org/10.1002/qj.3803 | Verified, primary (43 authors) |
-
-## Suggested structure for the literature review
-
-1. Road traffic accidents as an urban safety problem in the UAE and Dubai. Use sources 5–11.
-2. Spatial hotspot methods: KDE, Getis-Ord Gi* and density-based clustering. Cite sources 1–3 and section D.
-3. Crash severity classification: decision trees, random forests, and handling class imbalance (SMOTE).
-4. Prior Dubai and UAE work (sources 1–3) and the gap this project fills: an 8-year span, clustering combined with severity classification, and emergency-response placement.

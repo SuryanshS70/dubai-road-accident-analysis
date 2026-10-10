@@ -61,11 +61,8 @@ Changes from the earlier version of this list:
 
 **9. Ministry of Interior. (2022). *Number of traffic accidents categorized by the nationality, gender and cause of the accident* (2001–2005; no 2004) [Data set]. UAE Open Data portal. CC BY 4.0. https://opendata.fcsc.gov.ae/@ministry-interior/causers-traffic-accidents-nationality-gender-and-cause-accidents** (Verified, primary)
 
-**10. Dubai Data and Statistics Establishment. Data sets on Data.Dubai.** (Not independently verified) These were seen only in the user's screenshot of Data.Dubai, so their pages, years and licences were not opened here. Copy the details from Data.Dubai before citing.
-- *Traffic Accidents and Injuries by Reason of Accident*
-- *Traffic Accidents and Injuries by Years*
-- *Traffic Accidents and Injuries by Months*
-- *Injured at Traffic Accidents by Nationality, Gender and Degree of Injury*
+**10. Dubai Data and Statistics Establishment. Data sets on Data.Dubai.
+https://data.dubai/en/l/469979
 
 **11. Roads and Transport Authority (RTA). *Statistical reports* 2011–2016 [PDF reports]. https://rta.ae/wps/portal/rta/ae/home/open-data?lang=en** (Verified, primary) The open-data page lists four reports: 2011, 2012, 2013, and a combined 2014–2016 report.
 

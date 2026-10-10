@@ -1,4 +1,6 @@
-# Sources for the literature review (verified)
+# Literature review sources: handover list
+
+> A checked list of sources handed over to the team member writing the literature review. It is a starting point for that section, not the section itself.
 
 ## Verification note
 

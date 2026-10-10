@@ -1,6 +1,6 @@
-# Literature Review (corrected draft)
+# Literature review: reference draft (not the report section)
 
-> Checked on 9 Oct 2026 against the original sources. The list of changes and the two items to confirm are at the end of this file.
+> A reference aid for the team member writing the literature review. It is not the final section of the report. Checked on 9 Oct 2026 against the original sources. The list of changes and the two items to confirm are at the end of this file.
 
 ## 1. Road Traffic Accidents in Dubai and the UAE
 
